@@ -125,14 +125,3 @@ git clone https://github.com/budigepavani3/Mental-Health-Data-Analysis/
 
 ---
 
-## 👩‍💻 Author
-
-**Budiga Pavani**
-Data Analyst | Python & Power BI Enthusiast
-
-🔗 GitHub: [https://github.com/your-budigepavani3](https://github.com/budigepavani3/)
-🔗 LinkedIn: https://www.linkedin.com/in/ pavani-budiga
-
----
-
-⭐ *If you find this project insightful, feel free to star the repository.*
