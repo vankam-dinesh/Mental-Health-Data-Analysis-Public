@@ -10,7 +10,7 @@ The project is designed and documented to meet **Data Analyst portfolio standard
 
 ## 🎯 Business & Analytical Objectives
 
-* Analyze social media data to understand mental health discussion trends
+* Analyze social media data to understand mental health discussion trends       
 * Identify sentiment patterns and category-wise insights
 * Transform raw data into clean, analysis-ready datasets
 * Create clear, meaningful visualizations and dashboards
