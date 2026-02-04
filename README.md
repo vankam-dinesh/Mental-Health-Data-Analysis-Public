@@ -6,7 +6,7 @@ This project presents a **comprehensive data analysis of mental health discussio
 
 The project is designed and documented to meet **Data Analyst portfolio standards**, making it suitable for **MNC / Big 4 entry-level and graduate roles**. It demonstrates practical skills in **Python, Excel, and Power BI**, along with a structured analytical approach that recruiters expect.     
      
----
+---         
 
 ## 🎯 Business & Analytical Objectives
      
